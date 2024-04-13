@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "A46EF118-461A-4CE3-BCEB-240685CAA74C"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F91C6110-9545-43CC-A327-6B518E38CF99"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "1301uitableview/DialogBottomVIew.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "86"
+            endingLineNumber = "86"
+            landmarkName = "f()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F91C6110-9545-43CC-A327-6B518E38CF99 - 15731806e3327ac9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyMessenger.DialogBottomView.f() -&gt; ()"
+                  moduleName = "MyMessenger"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/d.i.antonov/Desktop/1301uitableview/1301uitableview/DialogBottomVIew.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "1964">
+               </Location>
+               <Location
+                  uuid = "F91C6110-9545-43CC-A327-6B518E38CF99 - 15731806e3327ac9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyMessenger.DialogBottomView.f() -&gt; ()"
+                  moduleName = "MyMessenger"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/d.i.antonov/Desktop/1301uitableview/1301uitableview/DialogBottomVIew.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "2179">
+               </Location>
+               <Location
+                  uuid = "F91C6110-9545-43CC-A327-6B518E38CF99 - 15731806e3327ac9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyMessenger.DialogBottomView.f() -&gt; ()"
+                  moduleName = "MyMessenger"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/d.i.antonov/Desktop/1301uitableview/1301uitableview/DialogBottomVIew.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "2262">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
